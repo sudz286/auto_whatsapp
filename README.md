@@ -1,3 +1,3 @@
 Use `pipenv shell` to setup virtual environment
 
-Run whatsapp3.py
+Run whatsapp_3.py
